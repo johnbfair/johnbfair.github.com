@@ -10,9 +10,9 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : john b fair
-tagline: |> software engineer
+tagline: software engineer
 author :
-  name : john b fair
+  name :
   email : sprintf "%s@gmail.com" "johnbfair"
   github : johnbfair
   twitter : johnbfair
